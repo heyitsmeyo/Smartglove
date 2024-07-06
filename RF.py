@@ -101,29 +101,13 @@ class_labels = alphabets
 confusion_matrix_norm = confusion_matrix / confusion_matrix.sum(axis=1)[:, np.newaxis]
 plt.figure(figsize=(20, 20))
 
-# Choose a colormap
 cmap = sns.color_palette("Blues", as_cmap=True)
 
-# Generate the heatmap
+
 sns.heatmap(confusion_matrix_norm, annot=True, cmap=cmap, fmt=".2f", xticklabels=class_labels, yticklabels=class_labels)
 
-# Add labels and title
+
 plt.xlabel("Predicted Label", fontsize=12)
 plt.ylabel("True Label", fontsize=12)
 plt.title("Confusion Matrix", fontsize=14)
 plt.show()
-
-
-
-# Assuming 'y_true' contains the true labels and 'y_pred' contains the predicted labels
-#report = classification_report(y_true, y_pred, output_dict=True)
-#report_df = pd.DataFrame(report).transpose()
-
-# Save the DataFrame to a CSV file
-#report_df.to_csv('classification_alphabet85.csv', index=True)
-
-
-
-# Save the trained model
-
-    # Calculate confusion matrix
