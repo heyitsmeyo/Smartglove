@@ -11,9 +11,9 @@
 Flex flex[5] = {Flex(36), Flex(39), Flex(34), Flex(35), Flex(32)}; // Analog pins the flex sensors are on
 
 
-const char* ssid = "Galaxy";
-const char* password = "hello12345";
-const char* host = "192.168.175.165";  // Raspberry Pi IP address
+const char* ssid = "";
+const char* password = "";
+const char* host ="";  // Raspberry Pi IP address
 const int port = 4444;
 
 WiFiClient client;
