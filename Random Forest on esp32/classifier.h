@@ -838,7 +838,8 @@ namespace Eloquent {
         case 4:
             return "Y";
         default:
-            return "Unknown";  // In case of an invalid classIdx
+            return "Unknown"; 
+        
     }
 }
 
