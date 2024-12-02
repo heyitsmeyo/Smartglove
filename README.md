@@ -4,3 +4,10 @@ The project is about a smart glove that translates ASL (American sign language )
 The dataset used in this project can be found here : https://figshare.com/articles/dataset/ASL-Sensor-Dataglove-Dataset_zip/20031017?file=35776586
 
 ![Screenshot_20240523_001544_Gallery (1)](https://github.com/heyitsmeyo/Smartglove/assets/140254531/9e024574-e65a-4bb0-b723-5a575ae7da95)
+
+
+
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
