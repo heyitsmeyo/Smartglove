@@ -7,6 +7,18 @@ The dataset used in this project can be found here : https://figshare.com/articl
 
 
 
+# PCBDesign : 
+
+![pcb ](https://github.com/user-attachments/assets/a4ad2118-f515-4188-a761-8a5253d9840f)
+
+
+# pcbSchematic :
+
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/a906f87c-519a-4f4d-8824-7a86b3c654e4" />
+
+
+
+
 
 # if you like the project , you can donate us for more : 
 
